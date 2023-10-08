@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { Box } from '@mui/material';
 
-import Exercises from '../components/Excercises';
-import SearchExercises from '../components/SearchExcercises';
+import Exercises from '../components/Exercises';
+import SearchExercises from '../components/SearchExercises';
 import MainBanner from '../components/MainBanner';
 
 const Home = () => {
